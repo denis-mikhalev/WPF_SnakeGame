@@ -13,14 +13,11 @@ A classic Snake game built with **WPF** and the **MVVM** pattern. The snake move
 
 ## Demo
 
-> **Add a GIF here to make this README stand out!**
->
-> **How to record a GIF in 2 minutes:**
-> 1. Download [ScreenToGif](https://www.screentogif.com/) (free, no install required)
-> 2. Launch the app → click **Recorder** → resize the frame over the game window
-> 3. Press **F7** to start recording, play the game, press **F8** to stop
-> 4. Click **File → Save As** → choose **GIF** → save as `assets/demo.gif`
-> 5. Replace this block with: `![Demo](assets/demo.gif)`
+![Demo](assets/demo.png)
+
+> **Tip:** Replace the screenshot with an animated GIF for more impact!
+> Record one in 2 minutes using [ScreenToGif](https://www.screentogif.com/):
+> open **Recorder** → frame the game window → **F7** to record → **F8** to stop → save as `assets/demo.gif`
 
 ---
 
