@@ -13,11 +13,9 @@ A classic Snake game built with **WPF** and the **MVVM** pattern. The snake move
 
 ## Demo
 
-![Demo](assets/demo.png)
+![Demo](assets/demo.gif)
 
-> **Tip:** Replace the screenshot with an animated GIF for more impact!
-> Record one in 2 minutes using [ScreenToGif](https://www.screentogif.com/):
-> open **Recorder** → frame the game window → **F7** to record → **F8** to stop → save as `assets/demo.gif`
+![Screenshot](assets/demo.png)
 
 ---
 
